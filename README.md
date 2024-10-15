@@ -1,4 +1,4 @@
-<img src="header.png">
+<img src="banner.png">
 <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/zhsln/SDP_Assignment2">
 <h1>Please check releases!</h1>
 <h2>Helpful links:</h2>
